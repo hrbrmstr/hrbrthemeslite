@@ -1,0 +1,13 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.travis\.yml$
+^README\.*Rmd$
+^README\.*html$
+^NOTES\.*Rmd$
+^NOTES\.*html$
+^notes\.txt$
+^CONDUCT\.md$
+^README_files$
+^notes$
+^cran-comments\.md$
+^README_figs$
